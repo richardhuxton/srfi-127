@@ -1,0 +1,9 @@
+((license "BSD")
+ (category data)
+ ; (dependencies)
+ (test-dependencies test)
+ (author "Ivan Raikov, Peter Bex, Seth Alves")
+ (synopsis "SRFI-127: Lazy Sequences")
+ (components (extension srfi-127 (source "lseqs/lseqs.scm")))
+ )
+
