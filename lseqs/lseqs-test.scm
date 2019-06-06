@@ -1,5 +1,5 @@
-(use test)
-(use srfi-127)
+(import test)
+(import srfi-127)
 (include "../lseqs/r7rs-shim.scm")
 
 ;; Make-generator for tests cloned from SRFI 121
